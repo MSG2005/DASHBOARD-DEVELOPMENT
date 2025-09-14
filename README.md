@@ -1,18 +1,4 @@
-# DASHBOARD-DEVELOPMENT-USING-POWER-BI
-
-*COMPANY* : CODTECH IT SOLUTIONS
-
-*NAME* : GUDIPALLI MOHAN SAI
-
-*INTERN ID* : CT12WQVW
-
-*DOMAIN* : DATA ANALYSIS
-
-*DURATION* : 12 WEEKS
-
-*MENTOR* : NEELA SANTOSH
-
-# **Sales Performance Dashboard (Power BI)**
+# **Sales Performance Dashboard - Power BI**
 
 ## **Project Overview**
 
